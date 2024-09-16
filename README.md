@@ -1,8 +1,8 @@
 # Faceless
 
-Corso: Creative Programming and Computing.
+Course: Creative Programming and Computing.
 
-Autori: Riccardo Pomarico, Alice Marazzi, Alfredo Brusca.
+Authors: Riccardo Pomarico, Alice Marazzi, Alfredo Brusca.
 
 Faceless helps a computer understand humans through the words that describe them, and in doing so, you will experience personal identity itself.
 While the program desperately tries to recreate the face, the user will realize that words are not enough to fully represent who they are.
